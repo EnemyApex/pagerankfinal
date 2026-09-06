@@ -1,5 +1,0 @@
-streamlit
-tkinter
-numpy
-networkx
-matplotlib 
